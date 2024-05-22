@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597671002349",
+    "firebase_url": "https://meeple-69c25-default-rtdb.firebaseio.com",
+    "project_id": "meeple-69c25",
+    "storage_bucket": "meeple-69c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597671002349:android:b98dbfad9583fb2b4b4ce4",
+        "android_client_info": {
+          "package_name": "it.unimib.lapecorafaquack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597671002349-jdb66bft4p2mdm9etpqiff33ifsgk2vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.unimib.lapecorafaquack",
+            "certificate_hash": "228b16a9cfaff9715a4028945301ecbb95b0cfec"
+          }
+        },
+        {
+          "client_id": "597671002349-2odc5bc25rrsr4ei942t2tisgk4p3sfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmuLBRtzKiK0JeVTMAJ3cvOQsuJJTR7vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597671002349-2odc5bc25rrsr4ei942t2tisgk4p3sfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
